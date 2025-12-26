@@ -1,0 +1,15 @@
+# .NET / MAUI
+bin/
+obj/
+.vs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Logs
+*.log
